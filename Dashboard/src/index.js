@@ -6,6 +6,6 @@ menuBtn.addEventListener("click", () => {
     sideMenu.style.display = "block";
 })
 
-closeBtn.addEventListener("click", () => {
+closeBtn.addEventListener("click",() => {
     sideMenu.style.display = "none";
-})
+}) 
